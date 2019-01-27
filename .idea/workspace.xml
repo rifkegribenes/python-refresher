@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20bea721-5f1f-49b5-ae31-0ebd9f2ce80d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/if_statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2283" />
+          <entry key="py" value="3070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2283" />
+          <entry key="Python" value="3070" />
         </counts>
       </usages-collector>
     </session>
@@ -88,8 +87,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/if_statements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="405">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding>
+                <marker date="1548623664825" expanded="true" signature="670:675" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,10 +113,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1119" />
-    <option name="y" value="23" />
-    <option name="width" value="793" />
-    <option name="height" value="949" />
+    <option name="x" value="2023" />
+    <option name="y" value="32" />
+    <option name="width" value="1423" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -168,11 +170,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1119" y="23" width="793" height="949" extended-state="0" />
+    <frame x="2023" y="32" width="1423" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18523316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.101997145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -228,8 +230,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/if_statements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="405">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <marker date="1548623664825" expanded="true" signature="670:675" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
